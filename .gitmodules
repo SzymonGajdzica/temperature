@@ -1,0 +1,12 @@
+[submodule "temperature-controller"]
+	path = temperature-controller
+	url = https://github.com/SzymonGajdzica/temperature-controller
+[submodule "temperature-android"]
+	path = temperature-android
+	url = https://github.com/SzymonGajdzica/temperature-android
+[submodule "temperature-broker"]
+	path = temperature-broker
+	url = https://github.com/SzymonGajdzica/temperature-broker
+[submodule "temperature-gateway-nodes"]
+	path = temperature-gateway-nodes
+	url = https://github.com/SzymonGajdzica/temperature-gateway-nodes
